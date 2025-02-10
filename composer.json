@@ -13,10 +13,10 @@
   ],
   "homepage": "https://github.com/DisWEBru/bitrix-blade",
   "require": {
-    "php": ">=5.4.0",
-    "illuminate/container": "5.*",
-    "illuminate/view": "5.*",
-    "illuminate/events": "5.*",
+    "php": ">=8.2.0",
+    "illuminate/container": "^10.00|^11.00",
+    "illuminate/view": "^10.00|^11.00",
+    "illuminate/events": "^10.00|^11.00",
     "arrilot/bitrix-hermitage": "^1"
   },
   "autoload": {
